@@ -12,7 +12,7 @@
 
 * Please use [Pastebin](http://pastebin.com), [Gist](https://gist.github.com/), or a similar service for posting crash reports, logs, modlists or other long documents.
 
-* Some issues cannot be fixed, or have imperfect fixes given the limitations of Factorio's modding API. Do not demand better solutions which cannot be provided.
+* Some issues cannot be fixed, or have imperfect fixes given the limitations of Factorio's modding API. Do not request better solutions which cannot be provided.
 
 * Be polite. Don't be demanding.
 
